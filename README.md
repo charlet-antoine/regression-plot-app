@@ -1,6 +1,8 @@
 # regression-plot-app
-This project demonstrate how to expose a simple flask server within a docker container
+This project demonstrates how to expose a simple flask server with docker.
 
+
+# To try the demo: 
 ```
 git clone https://github.com/charlet-antoine/regression-plot-app.git
 cd regression-plot-app.git
